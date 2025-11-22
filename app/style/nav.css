@@ -1,0 +1,46 @@
+nav {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  z-index: 9999;
+}
+
+.header {
+  max-width: 1400px;
+  width: 100%;
+  margin: 0 auto;
+  height: 80px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 15px;
+}
+
+.header .logo,
+.header a {
+  font-family: var(--font-main);
+}
+
+.header .logo {
+  font-size: 2rem;
+  font-weight: 400;
+}
+
+.header .menu .menu-list {
+  display: flex;
+  gap: 25px;
+}
+
+.header .menu .menu-list a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.header .action-buttons {
+  display: flex;
+  gap: 20px;
+}
+
+.header .action-buttons img {
+  height: 24px;
+}
