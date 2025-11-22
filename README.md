@@ -14,5 +14,4 @@ AWS, Terraform, Docker
 
 ## Screenshots
 
-![App Screenshot](https://raw.githubusercontent.com/SMThapa/custom_vpc/main/web.png)
-
+![App Screenshot](https://github.com/SMThapa/custom_vpc/blob/main/web.png)
